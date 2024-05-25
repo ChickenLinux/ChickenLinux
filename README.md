@@ -1,0 +1,2 @@
+# :chicken: ChickenLinux
+[ChickenLinux]
